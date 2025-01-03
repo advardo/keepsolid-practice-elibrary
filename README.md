@@ -1,7 +1,7 @@
 ## E-Library practice
 
 
-
+![Alt Text](preview.gif)
 
 # Welcome to your Expo app 👋
 
