@@ -1,7 +1,7 @@
 ## E-Library practice
 
 
-![Alt Text](preview.gif)
+<img src="preview.gif" width="250" />
 
 # Welcome to your Expo app 👋
 
