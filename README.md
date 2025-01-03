@@ -1,6 +1,9 @@
 ## E-Library practice
 
-
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+</video
+   
 <img src="preview.gif" width="250" />
 
 # Welcome to your Expo app 👋
